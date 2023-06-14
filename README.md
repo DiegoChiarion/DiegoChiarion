@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá, eu sou o Diego Chiarion
 
-<!--
-**DiegoChiarion/DiegoChiarion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🏛️ Formado em Marketing
+- 🌱 Estudante de ADS
+- 🚀 Trabalho com Marketing
+- 📫 LinkedIn: https://l1nk.dev/DiegoChiarion
+- 🌐 Em busca de Networking
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+    <a href="https://diego-chiarion/DiegoChiarion">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DiegoChiarion&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+    <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoChiarion&layout=compact&langs_count=16&theme=highcontrast"/>
+<div/>
