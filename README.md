@@ -1,4 +1,4 @@
-### Olá, eu sou o Diego Chiarion
+### Olá, eu sou Diego Chiarion
 
 - 🏛️ Formado em Marketing
 - 🌱 Estudante de ADS
