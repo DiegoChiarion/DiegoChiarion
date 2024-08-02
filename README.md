@@ -2,6 +2,6 @@
 
 - 🏛️ Formado em Marketing
 - 🌱 Estudante de ADS
-- 🚀 Trabalho com Marketing
+- 🚀 Em busca da primeira vaga Dev.
 - 📫 LinkedIn: https://l1nk.dev/DiegoChiarion
 - 🌐 Em busca de Networking
