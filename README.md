@@ -3,7 +3,6 @@
 - 🏛️ Formado em Marketing
 - 🌱 Estudante de ADS
 - 🚀 Em busca da primeira vaga Dev.
-- 📫 LinkedIn: in/diego-chiarion-829831213
 - 🌐 Em busca de Networking
   
 <div>
